@@ -5,7 +5,7 @@ export default function About(){
     const config ={
         line1:'Hi, My name is Ramya. I am a Front-end Web Developer. I build beautiful Websites with React.js and Tailwind CSS ,Responsive web design.',
         line2:'I am proficient in Frontend skills like React.js , Javascript , Tailwind CSS , Css3, HTML5 and many more.',
-        line3:'I hope to become a full stack Web Developer soon'
+        line3:'I hope to become a full stack Web Developer soon.'
 
     }
 
